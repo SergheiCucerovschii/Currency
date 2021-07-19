@@ -44,7 +44,14 @@ class CurrencyService:
     print(currency_list[:4])
 
 
-    # def get_data(xml_url):
+   
+
+
+
+
+
+
+# def get_data(xml_url):
     #     try:
     #         web_file = urllib.request.urlopen(xml_url)
     #         return web_file.read()
